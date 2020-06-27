@@ -1,0 +1,2 @@
+/usr/bin/ar qc libctx_json.a  CMakeFiles/ctx_json.dir/ctx_json_3.cpp.o
+/usr/bin/ranlib libctx_json.a
